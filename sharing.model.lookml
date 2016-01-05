@@ -4,3 +4,5 @@
 - include: "*.dashboard.lookml"  # include all the dashboards
 
 - explore: shareprocessor_etl
+
+- explore: all_events
